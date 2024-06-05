@@ -1,0 +1,59 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 20px;
+    text-align: center;
+    background-image: url(971.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+h1{
+    color: #ffffff;
+}
+
+button{
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+label{
+    color:#f0f0f0
+}
+
+button:hover{
+    background-color: #0056b3;
+}
+
+#mensagem{
+    color:#ffffff;
+    font-weight: bold;
+}
+
+#textoAlterado{
+    color: #ffffff;
+    font-style: italic;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+#meuLink{
+    color: #f0f0f0;
+}
+
+#linkMensagem{
+    color: #ffffff;
+
+}
+
+#novosLinks{
+    color: #ffffff;
+}
